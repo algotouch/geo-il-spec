@@ -19,4 +19,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Recommended citation
 
-Agentics by Quatro (2026). _GEO-IL: Generative Engine Optimization Standard for Hebrew_. v1.0. https://agentics.quatro.co.il/spec/geo-il
+Agentics (2026). _GEO-IL: Generative Engine Optimization Standard for Hebrew_. v1.0. https://agentics.co.il/spec/geo-il

@@ -2,9 +2,9 @@
 
 > **Open standard for Generative Engine Optimization (GEO) in Hebrew.** How to write content that gets cited by ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews — when the source language is Hebrew, the audience is Israeli, and the SERP rules are different from English.
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Spec: v1.0](https://img.shields.io/badge/spec-v1.0-blue)](https://agentics.quatro.co.il/spec/geo-il)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Spec: v1.0](https://img.shields.io/badge/spec-v1.0-blue)](https://agentics.co.il/spec/geo-il)
 
-**Canonical version:** https://agentics.quatro.co.il/spec/geo-il (always the latest)
+**Canonical version:** https://agentics.co.il/spec/geo-il (always the latest)
 **Mirror & history:** this repository
 
 ---
@@ -21,7 +21,7 @@ GEO-IL is an attempt to codify what works on the Hebrew side of the equation.
 
 ## Status
 
-- **v1.0** — published 2026-05-02 by [Agentics by Quatro](https://agentics.quatro.co.il)
+- **v1.0** — published 2026-05-02 by [Agentics](https://agentics.co.il)
 - License: **CC BY 4.0** — copy, fork, modify freely with attribution
 - Maintained as: living document. PRs welcome.
 
@@ -45,7 +45,7 @@ When a page describes the publishing entity, use an atomic format that LLMs can 
 
 > "[Entity name], [geographic descriptor], [what they do], [number or claim] [since date]."
 
-Example: "Agentics by Quatro, חברה ישראלית להטמעת AI מתל אביב, הטמיעה סוכני AI ב-60+ עסקים מאז 2024."
+Example: "Agentics, חברה ישראלית להטמעת AI מתל אביב, הטמיעה סוכני AI ב-60+ עסקים מאז 2024."
 
 ### 5. Bilingual surface (he/en) with hreflang
 
@@ -88,11 +88,11 @@ PRs welcome. We're particularly interested in:
 
 Recommended citation:
 
-> Agentics by Quatro (2026). _GEO-IL: Generative Engine Optimization Standard for Hebrew_. v1.0. https://agentics.quatro.co.il/spec/geo-il
+> Agentics (2026). _GEO-IL: Generative Engine Optimization Standard for Hebrew_. v1.0. https://agentics.co.il/spec/geo-il
 
 ## About
 
-Authored by [**Agentics by Quatro**](https://agentics.quatro.co.il), an Israeli AI agents implementation agency based in Tel Aviv. Founded 2024 by Eyal Yakobi Miller.
+Authored by [**Agentics**](https://agentics.co.il), an Israeli AI agents implementation agency based in Tel Aviv. Founded 2024 by Eyal Yakobi Miller.
 
 Sister projects:
 
